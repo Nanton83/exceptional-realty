@@ -74,6 +74,8 @@ figcaption {
     background: #ccc;
 }
 
+
+
 [class*="col-"] {
     margin-left: 2%;
 }
